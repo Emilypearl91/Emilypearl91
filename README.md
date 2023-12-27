@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Emilypearl91
+- 👀 I’m interested in a mix of front-end and back-end development. my hobbies are reading, knitting, playing animal crossing and spending time with my dog aelin.
+- 🌱 I’m currently learning about building projects and cool components in svelte
+- 📫 How to reach me : emilypearl9193@gmail.com
